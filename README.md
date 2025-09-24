@@ -53,15 +53,9 @@ Saya tertarik membangun antarmuka yang bersih, intuitif, dan cepat. Fokus pada *
 ---
 
 ## 📊 GitHub Stats
-> Ganti `YOUR_GITHUB_USERNAME` dengan username GitHub-mu untuk menampilkan data nyata.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=blueberry)
-
----
-
-## 🚀 Mau terhubung?
-Kalau mau ngobrol soal kolaborasi, frontend, atau sekedar main badminton, kirim email aja — saya senang bertukar ide!
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mhmddilhamm&show_icons=true&theme=blueberry)
 
 ---
 
-*Made with 💙 by Muhammad Ilham Akbar Syah*
+
