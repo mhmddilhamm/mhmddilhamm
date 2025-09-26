@@ -1,5 +1,5 @@
 # Hi — I'm Muhammad Ilham Akbar Syah 👋
-> Frontend Developer · Pembelajar saham · Pecinta badminton  
+> Frontend Developer · Pecinta badminton  
 > Aesthetic • Modern • Sky-blue vibes
 
 [![Sky Blue Banner](https://img.shields.io/badge/sky--blue-✨-00aaff?style=for-the-badge&logo=github)]()
@@ -13,7 +13,7 @@
 ---
 
 ## 💡 Tentang saya
-Saya tertarik membangun antarmuka yang bersih, intuitif, dan cepat. Fokus pada **frontend** — membuat pengalaman pengguna yang menyenangkan lewat HTML, CSS, dan JavaScript. Selain ngoding, saya aktif main badminton dan sedang belajar sedikit tentang pasar saham.
+Saya tertarik membangun antarmuka yang bersih, intuitif, dan cepat. Fokus pada **frontend** — membuat pengalaman pengguna yang menyenangkan lewat HTML, CSS, dan JavaScript. Selain ngoding, saya aktif main badminton.
 
 ---
 
@@ -34,7 +34,6 @@ Saya tertarik membangun antarmuka yang bersih, intuitif, dan cepat. Fokus pada *
 
 ## 🔭 Sedang dikerjakan
 - Membangun portofolio proyek frontend (landing page + responsive components).  
-- Belajar konsep investasi dasar untuk memahami saham.
 
 ---
 
@@ -46,8 +45,7 @@ Saya tertarik membangun antarmuka yang bersih, intuitif, dan cepat. Fokus pada *
 ---
 
 ## ⚡ Hobi & Minat
-- 🏸 Main badminton — aktif dan kompetitif  
-- 📈 Belajar saham — baca laporan & chart sederhana  
+- 🏸 Main badminton — aktif dan kompetitif    
 - 🎧 Musik santai saat ngoding
 
 ---
